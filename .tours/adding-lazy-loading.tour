@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Adding Lazy Loading for BlogPage",
+  "steps": [
+    {
+      "file": "src/App.js",
+      "description": "Create BlogPage with lazy function.",
+      "line": 9
+    },
+    {
+      "file": "src/App.js",
+      "description": "Fixed BlogPage Loader.",
+      "line": 31
+    },
+    {
+      "file": "src/App.js",
+      "description": "Wrap BlogPage with Suspense.",
+      "line": 27
+    }
+  ]
+}

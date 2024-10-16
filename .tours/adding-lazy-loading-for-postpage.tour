@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Adding Lazy Loading for PostPage",
+  "steps": [
+    {
+      "file": "src/App.js",
+      "description": "Create PostPage with lazy function.",
+      "line": 10
+    },
+    {
+      "file": "src/App.js",
+      "description": "Fixed PostPage Loader.",
+      "line": 41
+    },
+    {
+      "file": "src/App.js",
+      "description": "Wrap PostPage with Suspense.",
+      "line": 37
+    }
+  ]
+}
